@@ -12,4 +12,4 @@ Minimal patches to get command working and other polishes for Mac OS
 
 Get the latest release from [releases](https://github.com/ZimengXiong/Protobot-Rebuilt-MacOS/releases).
 
-Run `xattr -cr /path/to/app.app` to clear notarization requirements.
+Run `xattr -cr /Applications/Protobot-Rebuilt.app` to clear notarization requirements.
