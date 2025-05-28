@@ -162,6 +162,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   name: 'High Stakes Field '
+  weightInGrams: 0
 --- !u!1 &3829103032990208914
 GameObject:
   m_ObjectHideFlags: 0
@@ -174,7 +175,7 @@ GameObject:
   - component: {fileID: 1482224140501927668}
   - component: {fileID: 3396970309474085060}
   m_Layer: 0
-  m_Name: Field
+  m_Name: High Stakes Field
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -212,7 +213,7 @@ MonoBehaviour:
   id: FELD
   connectingPart: 0
   group: 0
-  icon: {fileID: 21300000, guid: ce3bff56742f29c46b04437ecdec7cc0, type: 3}
+  icon: {fileID: 21300000, guid: d76417ce1c4d8d04a85e53adc3f5b68a, type: 3}
 --- !u!114 &3396970309474085060
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -410,3 +411,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   name: High Stakes Field
+  weightInGrams: 0
